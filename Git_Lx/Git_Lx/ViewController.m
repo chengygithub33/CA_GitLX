@@ -18,6 +18,9 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor redColor];
+    
+    
+    self.title = @"test";
 
 }
 
