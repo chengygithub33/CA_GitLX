@@ -24,6 +24,7 @@
     self.title = @"test";
     
     NSLog(@"创建一个分支");
+    NSLog(@"创建一个分支 002");
 
 }
 
