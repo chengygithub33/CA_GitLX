@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor redColor];
@@ -24,6 +25,8 @@
     
     NSLog(@"创建一个分支 001");
     NSLog(@"创建一个分支 001-2");
+    NSLog(@"创建一个分支");
+    NSLog(@"创建一个分支 002");
 
 }
 
