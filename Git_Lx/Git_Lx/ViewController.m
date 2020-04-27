@@ -15,12 +15,15 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor redColor];
     
     
     self.title = @"test";
+    
+    NSLog(@"创建一个分支");
 
 }
 
